@@ -19,8 +19,13 @@ the model will classify the image into the following categories:
 ## Plans and Things to Do:
 
 Gather data (couldn't find particularly good data sets, but I could make one by just searching "sad dog", "happy dog" etc and resize/filter and construct our own data)
+
 Develop Convolutional Neural Network (python?)
+
 Host NN on server (Heroku?)
+
 Develop iOS front end (XCode + swift)
+
 Make requests from iOS app to server and display results
+
 Make app pretty
